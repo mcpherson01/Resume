@@ -1,1 +1,1 @@
-My Website Resume Template & Resources.  Built from an initial Bootstrap Boilerplate, so I can't take full credit.  
+My Website Resume Template & Resources.  Built from an initial Bootstrap Boilerplate, Demonstrating my Career History, Education & Skillset in a dynamic & unique way that may or may not... appeal to prospective employers.
